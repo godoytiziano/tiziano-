@@ -1,0 +1,20 @@
+1.logearse
+git config --global user.name
+git config --global user.gmail
+
+2.inicia un repositorio 
+git init
+
+3.indicar a que repositorio hay que subir 
+git remote -v --> para ver quien esta 
+git remote remove origin --> borrar 
+git  remote add origin (link) --> añadir
+
+git status --->para ver el estados del archivo 
+
+4.git add (nombre del archivo)
+git commit -m "..." --> poner un nombre cuerente 
+git branch -m main -->crear una rama 
+git push origin main  --->sube un archivo a la nube 
+
+5.
